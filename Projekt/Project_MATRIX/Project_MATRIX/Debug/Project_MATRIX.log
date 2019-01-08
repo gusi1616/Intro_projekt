@@ -1,0 +1,6 @@
+﻿  functions.c
+c:\users\simon\desktop\simon\studier\1 programmering\projekt\project_matrix\project_matrix\functions.c(229): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\simon\desktop\simon\studier\1 programmering\projekt\project_matrix\project_matrix\functions.c(212): warning C4101: 'a': unreferenced local variable
+c:\users\simon\desktop\simon\studier\1 programmering\projekt\project_matrix\project_matrix\functions.c(212): warning C4101: 'b': unreferenced local variable
+  Project_MATRIX.vcxproj -> C:\Users\simon\Desktop\Simon\Studier\1 Programmering\Projekt\Project_MATRIX\Debug\Project_MATRIX.exe
+  Project_MATRIX.vcxproj -> C:\Users\simon\Desktop\Simon\Studier\1 Programmering\Projekt\Project_MATRIX\Debug\Project_MATRIX.pdb (Partial PDB)
